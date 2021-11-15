@@ -5,7 +5,7 @@ I am an graduate student at UPN Veteran East Java specializing in information te
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EndyPratama alt=EndyPratama /> </p>
 <p align="left">
 <a href="https://github.com/endy-gigih-pratama">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EndyPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EndyPratama&layout=compact&langs_count=4&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EndyPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EndyPratama&layout=compact&langs_count=4&theme=algolia"/>
 </a>
 </p>
