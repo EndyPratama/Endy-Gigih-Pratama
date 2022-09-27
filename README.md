@@ -17,3 +17,11 @@ I am a student at UPN Veteran East Java specializing in information technology.<
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EndyPratama&layout=compact&langs_count=4&theme=algolia"/>
 </a>
 </p>
+
+<p align="left">
+<a href="https://github.com/endy-gigih-pratama">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&exclude_repo=farhanzuhdi-flutter"/>
+</a>
+</p>
