@@ -12,16 +12,9 @@ I am a student at UPN Veteran East Java specializing in information technology.<
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EndyPratama alt=EndyPratama /> </p>
 <p align="left">
-<a href="https://github.com/endy-gigih-pratama">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EndyPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EndyPratama&layout=compact&langs_count=4&theme=algolia"/>
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/endy-gigih-pratama">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&exclude_repo=farhanzuhdi-flutter"/>
+<a href="https://github.com/EndyPratama">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&count_private=true&theme=chartreuse-dark&show_icons=true&langs_count=4"/>
 </a>
 </p>
