@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-EndyPratama-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/endy-pratama-a575a5226/)](https://www.linkedin.com/in/endy-pratama-a575a5226/)
 
 <p align='left'>Hi everyone 
-I am a student at UPN Veteran East Java specializing in information technology.</p>
+I am a Backend Engineering. I am used to using PHP and Golang languages. I am interested and like to explore various things that I do not know and have not mastered.
 
 ## Some of my Github Stats
 
@@ -15,6 +15,6 @@ I am a student at UPN Veteran East Java specializing in information technology.<
 <a href="https://github.com/EndyPratama">
   <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues"/>
   <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues"/>
-  <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&count_private=true&theme=chartreuse-dark&show_icons=true&langs_count=4"/>
+<!--   <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&count_private=true&theme=chartreuse-dark&show_icons=true&langs_count=4"/> -->
 </a>
 </p>
