@@ -13,8 +13,7 @@ I am a Backend Engineering. I am used to using PHP and Golang languages. I am in
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EndyPratama alt=EndyPratama /> </p>
 <p align="left">
 <a href="https://github.com/EndyPratama">
-  <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues"/>
-  <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api?username=EndyPratama&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues"/>
-<!--   <img width="300em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndyPratama&&layout=compact&count_private=true&theme=chartreuse-dark&show_icons=true&langs_count=4"/> -->
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EndyPratama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EndyPratama&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&hide=prs,issues"/>
 </a>
 </p>
