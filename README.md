@@ -34,5 +34,5 @@ I am a Backend Engineering. I am used to using PHP and Golang languages. I am in
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  <!-- ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome) -->
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
